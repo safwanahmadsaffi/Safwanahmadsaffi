@@ -1,7 +1,7 @@
 [![committers.top badge](https://user-badge.committers.top/pakistan_private/Safwaahmad.svg)](https://user-badge.committers.top/pakistan_private/Safwaahmad)
 
 <a href="https://github.com/Safwaahmad">
-    <img height="auto" width="90%" src="https://github-widgetbox.vercel.app/api/profile?username=Safwaahmad&data=followers,repositories,stars,commits&theme=nautilus">
+    <img height="auto" width="80%" src="https://github-widgetbox.vercel.app/api/profile?username=Safwaahmad&data=followers,repositories,stars,commits&theme=nautilus">
 </a>
 
 <p align="center">
