@@ -1,3 +1,6 @@
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Safwan I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
 [![committers.top badge](https://user-badge.committers.top/pakistan_private/Safwaahmad.svg)](https://user-badge.committers.top/pakistan_private/Safwaahmad)
 
 <a href="https://github.com/Safwaahmad">
@@ -101,3 +104,4 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student  Engineer bas
  </p 
 
 <br>
+
