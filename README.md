@@ -16,7 +16,7 @@
 <table> 
  <tr>
   <td>
-   <img src=" https://www.google.com/imgres?q=python%20logo&imgurl=https%3A%2F%2Fc1.klipartz.com%2Fpngpicture%2F572%2F813%2Fsticker-png-python-logo-programming-language-computer-programming-computer-software-objectoriented-programming-java-highlevel-programming-language-generalpurpose-programming-language-thumbnail.png&imgrefurl=https%3A%2F%2Fwww.klipartz.com%2Fen%2Fsticker-png-bwanz&docid=VM3M25bw9Y36aM&tbnid=xVdKAv-8HppvcM&vet=12ahUKEwjKvYuOuPaFAxXrBdsEHfb5DdAQM3oECDQQAA..i&w=370&h=222&hcb=2&ved=2ahUKEwjKvYuOuPaFAxXrBdsEHfb5DdAQM3oECDQQAA"/>  
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWdO4lR8tB0nMmHSTfpryUPYgyWhlp8choJgrl4Z4Gbw&s"/>  
   </td>
  </tr>
 </table>
