@@ -28,9 +28,21 @@
   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>
  <a/>
 </div>
-## Github Stats
-<div align = "center">
-![Safwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Safwaahmad&theme=dark&show_icons=true) 
-</div>
 
+#Github Stats
 
+<p align="center">
+
+<a href="https://github.com/arhamansari11">
+
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rackstaa.vercel.app/api?
+
+username=arhamansari11&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?
+
+username-Safwahmad&langs_count=12&layout-compact&langs_count-B&theme-algoliakinclude_all_commits=true&count_private-true&hide_border-trum
+
+</a>
+
+</p>
