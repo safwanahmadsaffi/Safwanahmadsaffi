@@ -82,13 +82,11 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student  Engineer bas
 
 ## Contact with me
 <div align="center">
- <a href="https://www.linkedin.com/in/safwan-ahmad-saffi/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>
- <a/>
-     <a href="https://www.linkedin.com/in/safwan-ahmad-saffi/" target="_blank"><img src="https://img.shields.io/badge/-Safwaahmad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-
+       <a href="https://www.linkedin.com/in/safwan-ahmad-saffi/" target="_blank"><img src="https://img.shields.io/badge/-Safwan ahmad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a target="_blank" href="mailto:safwanahmadsaffi836@gmail.com"><img src="https://img.shields.io/badge/-safwanahmadsaffi836@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://leetcode.com/u/safwanasaffi/" target="_blank"><img src="https://img.shields.io/badge/--Safwan ahmad-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
   
 </div>
-
  ## Github Stats📈:
 <p align="center">
     <a href="https://github.com/Safwaahmad">
