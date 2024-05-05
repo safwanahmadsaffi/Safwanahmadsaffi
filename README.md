@@ -38,14 +38,14 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student  Engineer bas
 <table><tr><td valign="top" width="25%">
 
 ### Frontend  
-<a href="https://github.com/arhamansari11">
+<a href="https://github.com/Safwaahmad">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,redux,materialui&perline=4" /> 
 </div>
 </a>
 
 ### Backend  
-<a href="https://github.com/arhamansari11">
+<a href="https://github.com/Safwaahmad">
 <div align="center">   
       <img src="https://skillicons.dev/icons?i=php,mysql,firebase,nodejs,express,mongodb&perline=4" /> 
 </div>
@@ -53,7 +53,7 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student  Engineer bas
 </td><td valign="top" width="25%">
     
 ### Languages
-<a href="https://github.com/arhamansari11">
+<a href="https://github.com/Safwaahmad">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=js,php,cpp,java,python,&perline=4" /> 
 </div>
@@ -62,7 +62,7 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student  Engineer bas
 </td><td valign="top" width="25%">
   
 ### Others
-<a href="https://github.com/arhamansari11">
+<a href="https://github.com/Safwaahmad">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,postman,netlify,vite,vercel,heroku,discord,stackoverflow,vscodeqt&perline=4" /> 
 </div>
@@ -84,7 +84,7 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student  Engineer bas
 <div align="center">
  <a href="https://www.linkedin.com/in/safwan-ahmad-saffi/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>
  <a/>
-     <a href="https://www.linkedin.com/in/Safwaahmad/" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+     <a href="https://www.linkedin.com/in/safwan-ahmad-saffi/" target="_blank"><img src="https://img.shields.io/badge/-Safwaahmad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
   
 </div>
