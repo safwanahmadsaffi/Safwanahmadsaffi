@@ -1,7 +1,7 @@
 [![committers.top badge](https://user-badge.committers.top/pakistan_private/Safwaahmad.svg)](https://user-badge.committers.top/pakistan_private/Safwaahmad)
 
 <a href="https://github.com/Safwaahmad">
-    <img height="auto" width="87%" src="https://github-widgetbox.vercel.app/api/profile?username=Safwaahmad&data=followers,repositories,stars,commits&theme=nautilus">
+    <img height="auto" width="98%" src="https://github-widgetbox.vercel.app/api/profile?username=Safwaahmad&data=followers,repositories,stars,commits&theme=nautilus">
 </a>
 
 <p align="center">
@@ -17,16 +17,60 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student  Engineer bas
  #
  
  
- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on Artificial language.
+- 🌱 Actively participating in coding competitions & hackathons.
+- 👯 I’m looking to collaborate with Companies.
+- 🤔 I’m looking for help with expertise.
+- 🌱 I love to tackle complex Data Structures and Algorithms problems on Leetcode in JAVA.
 - 📫 How to reach me: [safwanahmadsaffi836@gmail.com](safwanahmadsaffi836@gmail.com)
+- 🥅 2024 Goals: Contribute more to Open Source projects.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📞 Don't hesitate to reach out & let's connect and start a conversation.
+
 
 # Skill Sets:
+
+#
+
+## My Skill Set 🛠️:
+
+<table><tr><td valign="top" width="25%">
+
+### Frontend  
+<a href="https://github.com/arhamansari11">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,redux,materialui&perline=4" /> 
+</div>
+</a>
+
+### Backend  
+<a href="https://github.com/arhamansari11">
+<div align="center">   
+      <img src="https://skillicons.dev/icons?i=php,mysql,firebase,nodejs,express,mongodb&perline=4" /> 
+</div>
+</a>
+</td><td valign="top" width="25%">
+    
+### Languages
+<a href="https://github.com/arhamansari11">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=js,php,cpp,java,python,&perline=4" /> 
+</div>
+</a>
+
+</td><td valign="top" width="25%">
+  
+### Others
+<a href="https://github.com/arhamansari11">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,postman,netlify,vite,vercel,heroku,discord,stackoverflow,vscodeqt&perline=4" /> 
+</div>
+</a>
+</td>
+</tr></table>
+
+#
 
 <table> 
  <tr>
@@ -38,9 +82,10 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student  Engineer bas
 
 ## Contact with me
 <div align="center">
- <a href="https://www.linkedin.com/in/safwan-ahmad-saffi/">
-  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>
+ <a href="https://www.linkedin.com/in/safwan-ahmad-saffi/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>
  <a/>
+     <a href="https://www.linkedin.com/in/Safwaahmad/" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+
   
 </div>
 
