@@ -1,7 +1,8 @@
-<h1> Hello i am safwan </h1>
+# Hello I am safwan
 
 
- 
+
+## About me : 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
