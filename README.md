@@ -28,5 +28,9 @@
   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>
  <a/>
 </div>
+## Github Stats
+<div align = "center">
+![Safwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Safwaahmad&theme=dark&show_icons=true) 
+</div>
 
 
