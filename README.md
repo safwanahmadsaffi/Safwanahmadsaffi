@@ -45,5 +45,4 @@ username=arhamansari11&show_icons=true&theme=algolia&include_all_commits=true&co
 username-Safwaahmad&langs_count=12&layout-compact&langs_count-B&theme-algoliakinclude_all_commits=true&count_private-true&hide_border-trum
 
 </a>
-
 </p>
