@@ -25,7 +25,9 @@
 ## Contact with me
 <div
  align="center"
- <a href="https://www.linkedin.com/in/safwan-ahmad-saffi-0a106a247/">LinkedIn Profile<a/> 
+ <a href="https://www.linkedin.com/in/safwan-ahmad-saffi/">
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"/>
+ <a/>
 </div>
 
 
