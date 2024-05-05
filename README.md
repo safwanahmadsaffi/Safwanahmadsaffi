@@ -113,16 +113,3 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student  Engineer bas
 
 | <a href="https://github.com/Safwaahmad/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Safwaahmad&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Safwaahmad/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safwaahmad&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-#### Top Repositories
-
-
-<a href="https://github.com/Safwaahmad/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Safwaahmad&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/Safwaahmad/Safwaahmad.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Safwaahmad&repo=Safwaahmad.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
