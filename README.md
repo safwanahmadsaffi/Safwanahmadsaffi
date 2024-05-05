@@ -27,9 +27,10 @@
  <a href="https://www.linkedin.com/in/safwan-ahmad-saffi/">
   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>
  <a/>
+  
 </div>
 
-#Github Stats
+# Github Stats
 
 <p align="center">
 
@@ -37,12 +38,9 @@
 ">
 
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rackstaa.vercel.app/api?
-
 username=arhamansari11&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?
-
-username-Safwaahmad&langs_count=12&layout-compact&langs_count-B&theme-algoliakinclude_all_commits=true&count_private-true&hide_border-trum
-
+username-Safwaahmad&langs_count=12&layout-compact&langs_count-B&theme-algoliakinclude_all_commits=true&count_private-true&hide_border-true"/>
 </a>
 </p>
