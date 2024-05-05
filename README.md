@@ -1,6 +1,5 @@
 <h1> Hello i am safwan </h1>
-# About:
-## Skill srt
+
 
  
 - 🔭 I’m currently working on ...
@@ -12,3 +11,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+# Skill Sets:
