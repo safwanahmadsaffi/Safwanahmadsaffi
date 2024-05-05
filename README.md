@@ -26,7 +26,7 @@
 <div
  align="center"
  <a href="https://www.linkedin.com/in/safwan-ahmad-saffi/">
-  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"/>
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>
  <a/>
 </div>
 
