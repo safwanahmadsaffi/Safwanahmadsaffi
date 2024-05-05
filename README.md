@@ -33,7 +33,8 @@
 
 <p align="center">
 
-<a href="https://github.com/arhamansari11">
+<a href="https://github.com/Safwaahmad
+">
 
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rackstaa.vercel.app/api?
 
@@ -41,7 +42,7 @@ username=arhamansari11&show_icons=true&theme=algolia&include_all_commits=true&co
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?
 
-username-Safwahmad&langs_count=12&layout-compact&langs_count-B&theme-algoliakinclude_all_commits=true&count_private-true&hide_border-trum
+username-Safwaahmad&langs_count=12&layout-compact&langs_count-B&theme-algoliakinclude_all_commits=true&count_private-true&hide_border-trum
 
 </a>
 
