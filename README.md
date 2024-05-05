@@ -1,6 +1,6 @@
 <h1> Hello i am safwan </h1>
-#About:
-##Skill srt
+# About:
+## Skill srt
 
  
 - 🔭 I’m currently working on ...
