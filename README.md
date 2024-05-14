@@ -6,8 +6,7 @@
 </a>
 
 <p align="center">
-    <a href="https://github.com/Safwaahmad">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I%20am%20Programmer;I%20am%20a%20MERN%20Stack%20Developer;Love%20to%20code;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#fece00&vCenter=true&size=40&pause=300">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&random=false&width=435&lines=I+am+a+Programmer%2C+and+love+to+code!" alt="Typing SVG" />
     </a>
 </p>
 
