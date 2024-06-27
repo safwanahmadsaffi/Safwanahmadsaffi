@@ -20,28 +20,6 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student  Engineer bas
 - 📞 Don't hesitate to reach out & let's connect and start a conversation.
 
 
-
-#
-
-## My Skill Set 🛠️:
-
-<table><tr><td valign="top" width="25%">
-
-### Frontend  
-<a href="https://github.com/Safwaahmad">
-<div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,redux,materialui&perline=4" /> 
-</div>
-</a>
-
-### Backend  
-<a href="https://github.com/Safwaahmad">
-<div align="center">   
-      <img src="https://skillicons.dev/icons?i=php,mysql,firebase,nodejs,express,mongodb&perline=4" /> 
-</div>
-</a>
-</td><td valign="top" width="25%">
-    
 ### Languages
 <a href="https://github.com/Safwaahmad">
 <div align="center">
