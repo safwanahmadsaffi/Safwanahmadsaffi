@@ -38,15 +38,6 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student  Engineer bas
 </td>
 </tr></table>
 
-#
-
-<table> 
- <tr>
-  <td>
-   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWdO4lR8tB0nMmHSTfpryUPYgyWhlp8choJgrl4Z4Gbw&s" width="100px" height="100px"/>  
-  </td>
- </tr>
-</table>
 
 ## Contact with me
 <div align="center">
