@@ -8,7 +8,7 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student  Engineer bas
  #
  
  
-- 🔭 I’m currently working on Artificial language.
+- 🔭 I’m currently working on Artificial intelligence.
 - 🌱 Actively participating in coding competitions & hackathons.
 - 👯 I’m looking to collaborate with Companies.
 - 🤔 I’m looking for help with expertise.
