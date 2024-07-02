@@ -46,22 +46,21 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student  Engineer bas
     <a href="https://leetcode.com/u/safwanasaffi/" target="_blank"><img src="https://img.shields.io/badge/-Safwan ahmad-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
   
 </div>
-## Github Stats📈:
+ ## Github Stats📈:
 <p align="center">
-    <a href="https://github.com/Safwaahmad">
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Safwaahmad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Safwaahmad&langs_count=12&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
+    <a href="https://github.com/safwaahmad">
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=safwaahmad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=safwaahmad&langs_count=12&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
 
  <p align="center">
-   <a href="https://github.com/Safwaahmad"> 
-     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Safwaahmad&theme=algolia&hide_border=true" /> 
+   <a href="https://github.com/safwaahmad"> 
+     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=safwaahmadF&theme=algolia&hide_border=true" /> 
    </a>  
- </p 
+ </p>
 
 <br>
-<!--
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
