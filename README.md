@@ -39,15 +39,14 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student  Engineer bas
 </tr></table>
 
 
-## Contact with me
+ ### Contact with me
 <div align="center">
        <a href="https://www.linkedin.com/in/safwan-ahmad-saffi/" target="_blank"><img src="https://img.shields.io/badge/-Safwan ahmad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a target="_blank" href="mailto:safwanahmadsaffi836@gmail.com"><img src="https://img.shields.io/badge/-safwanahmadsaffi836@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
     <a href="https://leetcode.com/u/safwanasaffi/" target="_blank"><img src="https://img.shields.io/badge/-Safwan ahmad-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
   
 </div>
- ## Github Stats📈:
-#
+Github Stats📈:
 <p align="center">
     <a href="https://github.com/safwaahmad">
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=safwaahmad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
