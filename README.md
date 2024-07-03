@@ -33,7 +33,7 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student based in Paki
 </a>
 
 </td><td valign="top" width="25%">
-  #
+#
   
 ### Others
 <a href="https://github.com/Safwaahmad">
@@ -43,7 +43,6 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student based in Paki
 </a>
 </td>
 </tr></table>
-
 #
 
  ### Contact with me
@@ -54,6 +53,7 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student based in Paki
   
 </div>
 #
+
 
  ### GitHub Stats💬: 
  
