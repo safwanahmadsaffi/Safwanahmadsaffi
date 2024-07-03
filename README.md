@@ -24,7 +24,7 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student based in Paki
 - ⚡ Fun fact: ...
 - 📞 Don't hesitate to reach out & let's connect and start a conversation.
 #
-#
+
 ### Languages
 <a href="https://github.com/Safwaahmad">
 <div align="center">
@@ -33,7 +33,7 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student based in Paki
 </a>
 
 </td><td valign="top" width="25%">
-  
+  #
 ### Others
 <a href="https://github.com/Safwaahmad">
 <div align="center">
@@ -43,7 +43,7 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student based in Paki
 </td>
 </tr></table>
 
-
+#
  ### Contact with me
 <div align="center">
        <a href="https://www.linkedin.com/in/safwan-ahmad-saffi/" target="_blank"><img src="https://img.shields.io/badge/-Safwan ahmad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
@@ -51,7 +51,7 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student based in Paki
     <a href="https://leetcode.com/u/safwanasaffi/" target="_blank"><img src="https://img.shields.io/badge/-Safwan ahmad-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
   
 </div>
-
+#
  ### GitHub Stats💬: 
  
 <p align="center">
