@@ -2,8 +2,7 @@
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="240"/>
-
-   [![committers.top badge](https://user-badge.committers.top/pakistan/safwaahmad.svg)](https://user-badge.committers.top/pakistan/safwaahmad)
+ [![committers.top badge](https://user-badge.committers.top/pakistan/safwaahmad.svg)](https://user-badge.committers.top/pakistan/safwaahmad)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safwaahmad&label=Profile%20views&color=0e75b6&style=flat" alt="safwaahmad" /> </p>
 
 
@@ -52,7 +51,9 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student  Engineer bas
     <a href="https://leetcode.com/u/safwanasaffi/" target="_blank"><img src="https://img.shields.io/badge/-Safwan ahmad-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
   
 </div>
+
  ### GitHub Stats💬: 
+ 
 <p align="center">
     <a href="https://github.com/safwaahmad">
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=safwaahmad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
