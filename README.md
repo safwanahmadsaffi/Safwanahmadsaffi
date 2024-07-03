@@ -2,9 +2,8 @@
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="240"/>
-  
+  <!--[![committers.top badge](https://user-badge.committers.top/pakistan/safwaahmad.svg)](https://user-badge.committers.top/pakistan/safwaahmad)-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safwaahmad&label=Profile%20views&color=0e75b6&style=flat" alt="safwaahmad" /> </p>
-  [![committers.top badge](https://user-badge.committers.top/pakistan/safwaahmad.svg)](https://user-badge.committers.top/pakistan/safwaahmad)
 
 
 ## About me💬: 
