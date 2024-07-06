@@ -1,21 +1,16 @@
-</div>
+<!--[![committers.top badge](https://user-badge.committers.top/pakistan/safwaahmad.svg)](https://user-badge.committers.top/pakistan/safwaahmad)-->
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=safwaahmad&" />
-</div
-  <!--[![committers.top badge](https://user-badge.committers.top/pakistan/safwaahmad.svg)](https://user-badge.committers.top/pakistan/safwaahmad)-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=safwaahmad&label=Profile%20views&color=0e75b6&style=flat" alt="safwaahmad" /> </p>
-
-
-## About me💬: 
+</div>
 <div align="center">
   <a href="https://profile-summary-for-github.com/user/safwaahmad"><img alt="All Repositories" title="Detailed GitHub Statistics" src="https://custom-icon-badges.demolab.com/badge/Detailed%20GitHub%20Statistics-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </div>
 
 
+## About me💬: 
 Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student based in Pakistan👋. With a firm grip on the programming language 🛡️. I am passionate about crafting seamless and innovative solutions that push the boundaries of Machine Language. Exertiese in Data Science.🤖 I'm currently diving deep into the DSA. My passion lies in crafting exceptional user experiences, and I actively contribute to open-source projects. Let's collaborate and bring your visions to life! 💻
 
 #
- 
  
 - 🔭 I’m currently working on Artificial intelligence.
 - 🌱 Actively participating in coding competitions & hackathons.
