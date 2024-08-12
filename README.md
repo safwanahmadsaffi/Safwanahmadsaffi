@@ -12,21 +12,24 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student based in Paki
 
 #
  
-- 🔭 I’m currently working on Artificial intelligence.
+- 🔭 I’m currently working on GenAI.
 - 🌱 Actively participating in coding competitions & hackathons.
-- 👯 I’m looking to collaborate with Companies.
-- 🤔 I’m looking for help with expertise.
-- 🌱 I love to tackle complex Data Structures and Algorithms problems on Leetcode in JAVA.
-- 📫 How to reach me: [safwanahmadsaffi836@gmail.com](safwanahmadsaffi836@gmail.com)
+- 🌱 I love to tackle complex Data Structures and Algorithms problems.
 - 🥅 2024 Goals: Contribute more to Open Source projects.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 📞 Don't hesitate to reach out & let's connect and start a conversation.
+- 🔭 I’m currently working on **different LLM Projects.**
+- 👯 I’m looking to collaborate on **tech things.**
+- 🤝 I’m looking for help with **DSA.**
+- 👨‍💻 All of my projects are available at [https://safwaahmad.github.io/data-science-portfolio/](https://safwaahmad.github.io/data-science-portfolio/)
+- 📝 I regularly write articles on [https://safwera.blogspot.com/](https://safwera.blogspot.com/)
+- 💬 Ask me about **Pytho, DSA, Data Science, GenAI.**
+- 📫 How to reach me **safwanahmadsaffi@gmail.com**
+- ⚡ Fun fact **Good Athlete and Passionate Programmer.**
+
 #
 
 ### Languages
 <a href="https://github.com/Safwaahmad">
-<div align="center">
+<div align="left">
        <img src="https://skillicons.dev/icons?i=js,php,cpp,java,python,&perline=4" /> 
 </div>
 </a>
@@ -36,7 +39,7 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student based in Paki
   
 ### Others
 <a href="https://github.com/Safwaahmad">
-<div align="center">
+<div align="left">
        <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,postman,netlify,vite,vercel,heroku,discord,stackoverflow,vscodeqt&perline=4" /> 
 </div>
 </a>
