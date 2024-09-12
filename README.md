@@ -22,7 +22,7 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student based in Paki
 - 👀 HuggingFace space: https://huggingface.co/Safwanahmad619
 - 👨‍💻 All of my projects are available at [https://safwaahmad.github.io/data-science-portfolio/](https://safwaahmad.github.io/data-science-portfolio/)
 - 📝 I regularly write articles on [https://safwera.blogspot.com/](https://safwera.blogspot.com/)
-- 💬 Ask me about **Pytho, DSA, Data Science, GenAI.**
+- 💬 Ask me about **Python, DSA, Data Science, GenAI.**
 - 📫 How to reach me **safwanahmadsaffi@gmail.com**
 - ⚡ Fun fact **Good Athlete and Passionate Programmer.**
 
