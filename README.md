@@ -56,11 +56,6 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student based in Paki
   
 </div>
 
-<br>
-[![wakatime](https://wakatime.com/badge/user/d35128ad-2c73-486b-ac51-2d99ca9ee235.svg)](https://wakatime.com/@d35128ad-2c73-486b-ac51-2d99ca9ee235)
-<br>
-![safwaahmad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=safwaahmad&theme=radical)
-
 
  ### GitHub Stats💬: 
  
