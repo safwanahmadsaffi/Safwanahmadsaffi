@@ -1,3 +1,5 @@
+  <a href="https://user-badge.committers.top/pakistan/safwaahmad">
+    <img src="https://user-badge.committers.top/pakistan/safwaahmad.svg" alt="committers.top badge" />
 <!--[![committers.top badge]  (https://user-badge.committers.top/pakistan/safwaahmad.svg)](https://user-badge.committers.top/pakistan/safwaahmad)-->
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=safwaahmad&" />
