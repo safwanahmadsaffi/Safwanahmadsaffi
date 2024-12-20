@@ -63,13 +63,13 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student based in Paki
  ### GitHub Stats💬: 
  
 <p align="center">
-    <a href="https://github.com/safwaahmad">
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=safwaahmad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=safwaahmad&langs_count=12&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
+    <a href="https://github.com/safwanahmadsaffi">
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=safwanahmadsaffi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=safwanahmadsaffi&langs_count=12&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
  <p align="center">
-   <a href="https://github.com/safwaahmad"> 
-     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=safwaahmad&theme=algolia&hide_border=true" /> 
+   <a href="https://github.com/safwanahmadsaffi"> 
+     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=safwanahmadsaffi&theme=algolia&hide_border=true" /> 
    </a>  
  </p>
