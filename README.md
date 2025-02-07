@@ -67,7 +67,7 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student based in Paki
     </a>
 </p>
  <p align="center">
-   <a href="https://github.com/safwanahmadsaffi"> 
-     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=safwanahmadsaffi&theme=algolia&hide_border=true" /> 
+<!--    <a href="https://github.com/safwanahmadsaffi"> 
+     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=safwanahmadsaffi&theme=algolia&hide_border=true" />  -->
    </a>  
  </p>
