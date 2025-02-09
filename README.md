@@ -20,16 +20,16 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student based in Paki
 - 👯 I’m looking to collaborate on **tech things.**
 - 🤝 I’m looking for help with **DSA.**
 - 👀 HuggingFace space: https://huggingface.co/Safwanahmad619
-- 👨‍💻 All of my projects are available at [https://safwaahmad.github.io/data-science-portfolio/](https://safwaahmad.github.io/data-science-portfolio/)
+- 👨‍💻 All of my projects are available at [https://safwanahmadsaffi.github.io/data-science-portfolio/](https://safwaahmad.github.io/data-science-portfolio/)
 - 📝 I regularly write articles on [https://safwera.blogspot.com/](https://safwera.blogspot.com/)
 - 💬 Ask me about **Python, DSA, Data Science, GenAI.**
-- 📫 How to reach me **safwanahmadsaffi@gmail.com**
+- 📫 How to reach me **safwanahmadsaffi836@gmail.com**
 - ⚡ Fun fact **Good Athlete and Passionate Programmer.**
 
 #
 <!--
 ### Languages
-<a href="https://github.com/Safwaahmad">
+<a href="https://github.com/safwanahmadsaffi">
 <div align="left">
        <img src="https://skillicons.dev/icons?i=js,php,cpp,java,python,&perline=4" /> 
 </div>
