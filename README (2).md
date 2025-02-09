@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning **AI & ML**
 - 📫 How to reach me **safwanahmadsaffi836@gmail.com**
 - 👨‍💻 All of my projects are available at **https://safwanahmadsaffi.github.io/data-science-portfolio/**
-- 📄 Know about my experiences **https://shorturl.at/iBES9**
 
 <div> 
 <a href="https://www.linkedin.com/in/safwan-ahmad-saffi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -49,7 +48,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
+<h3 align="center">Stars</h3>
 
 <p><img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=safwanahmadsaffi&show_icons=true&locale=en&theme=dark" alt="safwanahmadsaffi" /> <img align="center" height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=safwanahmadsaffi&theme=dark" alt="safwanahmadsaffi" /></p>
 
@@ -66,5 +65,3 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=safwanahmadsaffi&theme=default"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safwanahmadsaffi&theme=onedark" alt="safwanahmadsaffi" /></a> </p>
-
-<br>
