@@ -12,7 +12,22 @@
 Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student based in Pakistan👋. With a firm grip on the programming language 🛡️. I am passionate about crafting seamless and innovative solutions that push the boundaries of Machine Language. Exertiese in Data Science.🤖 I'm currently diving deep into the DSA. My passion lies in crafting exceptional user experiences, and I actively contribute to open-source projects. Let's collaborate and bring your visions to life! 💻
 
 <h1 align="center">Hi 👋, I'm Muhammad Safwan Ahmad Saffi</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+
+- 🔭 I’m currently working on GenAI.
+- 🌱 Actively participating in coding competitions & hackathons.
+- 🌱 I love to tackle complex Data Structures and Algorithms problems.
+- 🥅 2024 Goals: Contribute more to Open Source projects.
+- 🔭 I’m currently working on **different LLM Projects.**
+- 👯 I’m looking to collaborate on **tech things.**
+- 🤝 I’m looking for help with **DSA.**
+- 👀 HuggingFace space: https://huggingface.co/Safwanahmad619
+- 👨‍💻 All of my projects are available at [https://safwanahmadsaffi.github.io/data-science-portfolio/](https://safwaahmad.github.io/data-science-portfolio/)
+- 📝 I regularly write articles on [https://safwera.blogspot.com/](https://safwera.blogspot.com/)
+- 💬 Ask me about **Python, DSA, Data Science, GenAI.**
+- 📫 How to reach me **safwanahmadsaffi836@gmail.com**
+- ⚡ Fun fact **Good Athlete and Passionate Programmer.**
+#
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safwanahmadsaffi&label=Profile%20views&color=0e75b6&style=flat" alt="safwanahmadsaffi" /> </p>
 <p> 💻 Passionate about Flutter App Development 🚀
 📚 Currently exploring Machine Learning, MERN Stack Technologies, and Data Science 🌐
@@ -39,6 +54,8 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student based in Paki
 <a href="https://www.leetcode.com/safwanahmadsaffi" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="safwanahmadsaffi" height="30" width="40" /></a>
 <a href="https://instagram.com/safwanahmadsaffi" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="safwanahmadsaffi" height="30" width="40" /></a>
 <a href="https://dev.to/safwanahmadsaffi" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" alt="safwanahmadsaffi" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/safwanasaffi/" target="_blank"><img src="https://img.shields.io/badge/-Safwan ahmad-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -75,50 +92,14 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student based in Paki
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=safwanahmadsaffi&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safwanahmadsaffi&theme=2077" height="180em" />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=safwanahmadsaffi&theme=default"/>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safwanahmadsaffi&theme=onedark" alt="safwanahmadsaffi" /></a> </p>
-
-<br>
-
-
-#
- 
-- 🔭 I’m currently working on GenAI.
-- 🌱 Actively participating in coding competitions & hackathons.
-- 🌱 I love to tackle complex Data Structures and Algorithms problems.
-- 🥅 2024 Goals: Contribute more to Open Source projects.
-- 🔭 I’m currently working on **different LLM Projects.**
-- 👯 I’m looking to collaborate on **tech things.**
-- 🤝 I’m looking for help with **DSA.**
-- 👀 HuggingFace space: https://huggingface.co/Safwanahmad619
-- 👨‍💻 All of my projects are available at [https://safwanahmadsaffi.github.io/data-science-portfolio/](https://safwaahmad.github.io/data-science-portfolio/)
-- 📝 I regularly write articles on [https://safwera.blogspot.com/](https://safwera.blogspot.com/)
-- 💬 Ask me about **Python, DSA, Data Science, GenAI.**
-- 📫 How to reach me **safwanahmadsaffi836@gmail.com**
-- ⚡ Fun fact **Good Athlete and Passionate Programmer.**
-
- ### Contact me
-<div align="center">
-       <a href="https://www.linkedin.com/in/safwan-ahmad-saffi/" target="_blank"><img src="https://img.shields.io/badge/-Safwan ahmad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a target="_blank" href="mailto:safwanahmadsaffi836@gmail.com"><img src="https://img.shields.io/badge/-safwanahmadsaffi836@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-    <a href="https://leetcode.com/u/safwanasaffi/" target="_blank"><img src="https://img.shields.io/badge/-Safwan ahmad-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
-  
-</div>
-<hr>
-
- ### GitHub Stats💬: 
- 
 <p align="center">
     <a href="https://github.com/safwanahmadsaffi">
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=safwanahmadsaffi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=safwanahmadsaffi&langs_count=12&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
- <p align="center">
- 
-<!--    <a href="https://github.com/safwanahmadsaffi"> 
-     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=safwanahmadsaffi&theme=algolia&hide_border=true" />  -->
-   </a>  
- </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=safwanahmadsaffi&theme=default"/>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safwanahmadsaffi&theme=onedark" alt="safwanahmadsaffi" /></a> </p>
+  
