@@ -31,19 +31,27 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student based in Paki
 <div> 
 <a href="https://www.linkedin.com/in/safwan-ahmad-saffi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/safwanahmadsaffi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://leetcode.com/u/safwanasaffi/" target="_blank"><img src="https://img.shields.io/badge/-Safwan ahmad-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
 <a href="https://instagram.com/safwanahmadsaffi" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:safwanahmadsaffi836@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://leetcode.com/u/safwanasaffi/" target="_blank"><img src="https://img.shields.io/badge/-Safwan ahmad-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
-</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/safwanahmadsaffi" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="safwanahmadsaffi" height="30" width="40" /></a>
-<a href="https://fb.com/safwanahmadsaffi" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="safwanahmadsaffi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC0PmJaq1vyw-26kcMaeqywA" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="safwanahmadsaffi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/safwanahmadsaffi" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="safwanahmadsaffi" height="30" width="40" /></a>
-<a href="https://instagram.com/safwanahmadsaffi" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="safwanahmadsaffi" height="30" width="40" /></a>
-<a href="https://dev.to/safwanahmadsaffi" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" alt="safwanahmadsaffi" height="30" width="40" /></a>
+</div>
+<!-- Social Media and Connect Section -->
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/safwanahmadsaffi" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="safwanahmadsaffi" height="50" width="60" />
+  </a>
+  <a href="https://www.facebook.com/itx.safi.318" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="itx.safi.318" height="50" width="60" />
+  </a>
+  <a href="https://www.youtube.com/channel/26kcMaeqywA" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="safwanahmadsaffi" height="50" width="60" />
+  </a>
+  
+  <a href="https://www.instagram.com/_safwan._.ahmad/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="_safwan._.ahmad" height="50" width="60" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -84,7 +92,7 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student based in Paki
     <a href="https://github.com/safwanahmadsaffi">
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=safwanahmadsaffi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=safwanahmadsaffi&langs_count=12&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
-    </a>
+    </a>                 
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=safwanahmadsaffi&theme=default"/>
