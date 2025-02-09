@@ -44,6 +44,7 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student based in Paki
 <a href="https://github.com/safwanahmadsaffi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/safwanahmadsaffi" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:safwanahmadsaffi836@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://leetcode.com/u/safwanasaffi/" target="_blank"><img src="https://img.shields.io/badge/-Safwan ahmad-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
 </div>
 
 <h3 align="left">Connect with me:</h3>
@@ -54,8 +55,6 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student based in Paki
 <a href="https://www.leetcode.com/safwanahmadsaffi" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="safwanahmadsaffi" height="30" width="40" /></a>
 <a href="https://instagram.com/safwanahmadsaffi" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="safwanahmadsaffi" height="30" width="40" /></a>
 <a href="https://dev.to/safwanahmadsaffi" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" alt="safwanahmadsaffi" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/safwanasaffi/" target="_blank"><img src="https://img.shields.io/badge/-Safwan ahmad-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
