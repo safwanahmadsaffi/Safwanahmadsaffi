@@ -69,3 +69,14 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=safwanahmadsaffi&theme=default"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safwanahmadsaffi&theme=onedark" alt="safwanahmadsaffi" /></a> </p>
+
+<br>
+  <a href="https://user-badge.committers.top/pakistan/safwaahmad">
+    <img src="https://user-badge.committers.top/pakistan/safwaahmad.svg" alt="committers.top badge" />
+<!--[![committers.top badge]  (https://user-badge.committers.top/pakistan/safwaahmad.svg)](https://user-badge.committers.top/pakistan/safwaahmad)-->
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=safwaahmad&" />
+</div>
+<div align="center">
+  <a href="https://profile-summary-for-github.com/user/safwaahmad"><img alt="All Repositories" title="Detailed GitHub Statistics" src="https://custom-icon-badges.demolab.com/badge/Detailed%20GitHub%20Statistics-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</div>
