@@ -13,7 +13,7 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student based in Paki
 
 <h1 align="center">Hi 👋, I'm Muhammad Safwan Ahmad Saffi</h1>
 
-- 🔭 I’m currently working on GenAI.
+- 🔭 I’m currently working on AI,Ml & Agentic AI.
 - 🌱 Actively participating in coding competitions & hackathons.
 - 🌱 I love to tackle complex Data Structures and Algorithms problems.
 - 🥅 2024 Goals: Contribute more to Open Source projects.
@@ -27,17 +27,6 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student based in Paki
 - 📫 How to reach me **safwanahmadsaffi836@gmail.com**
 - ⚡ Fun fact **Good Athlete and Passionate Programmer.**
 #
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=safwanahmadsaffi&label=Profile%20views&color=0e75b6&style=flat" alt="safwanahmadsaffi" /> </p>
-<p> 💻 Passionate about Flutter App Development 🚀
-📚 Currently exploring Machine Learning, MERN Stack Technologies, and Data Science 🌐
-🎨 Hobbies include Graphic Design and Video Editing 🎥
-📈 Always eager to learn and innovate in the tech world! 💡 </p>
-
-- 🌱 I’m currently learning **AI & ML**
-- 📫 How to reach me **safwanahmadsaffi836@gmail.com**
-- 👨‍💻 All of my projects are available at **https://safwanahmadsaffi.github.io/data-science-portfolio/**
-- 📄 Know about my experiences **https://shorturl.at/iBES9**
 
 <div> 
 <a href="https://www.linkedin.com/in/safwan-ahmad-saffi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
