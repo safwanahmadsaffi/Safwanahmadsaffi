@@ -9,9 +9,10 @@
 </div>
 
 # About Me💬:
+<h1 align="center">Hi 👋, I'm Muhammad Safwan Ahmad Saffi</h1>
+
 Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student based in Pakistan👋. With a firm grip on the programming language 🛡️. I am passionate about crafting seamless and innovative solutions that push the boundaries of Machine Language. Exertiese in Data Science.🤖 I'm currently diving deep into the DSA. My passion lies in crafting exceptional user experiences, and I actively contribute to open-source projects. Let's collaborate and bring your visions to life! 💻
 
-<h1 align="center">Hi 👋, I'm Muhammad Safwan Ahmad Saffi</h1>
 
 - 🔭 I’m currently working on AI,Ml & Agentic AI.
 - 🌱 Actively participating in coding competitions & hackathons.
