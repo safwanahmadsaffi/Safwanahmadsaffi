@@ -10,14 +10,12 @@
 
 <br/>
 
-<a href="https://profile-summary-for-github.com/user/safwanahmadsaffi">
+<a href="https://profile-summary-for-github.com/user/safwaahmad">
   <img alt="All Repositories" title="Detailed GitHub Statistics" src="https://custom-icon-badges.demolab.com/badge/Detailed%20GitHub%20Statistics-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
 </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<a href="https://gitroll.io/profile/uAijnqpn4OLR1PUwNnUgd8wKewL42" target="_blank">
-  <img src="https://gitroll.io/api/badges/profiles/v1/uAijnqpn4OLR1PUwNnUgd8wKewL42?theme=light" alt="GitRoll Profile Badge"/>
-</a>
+<a href="https://gitroll.io/profile/uAijnqpn4OLR1PUwNnUgd8wKewL42" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uAijnqpn4OLR1PUwNnUgd8wKewL42?theme=darkEmerald" alt="GitRoll Profile Badge"/></a>
 
 </div>
 
