@@ -1,11 +1,11 @@
-  <a href="https://user-badge.committers.top/pakistan/safwaahmad">
-    <img src="https://user-badge.committers.top/pakistan/safwaahmad.svg" alt="committers.top badge" />
-<!--[![committers.top badge]  (https://user-badge.committers.top/pakistan/safwaahmad.svg)](https://user-badge.committers.top/pakistan/safwaahmad)-->
+  <a href="https://user-badge.committers.top/pakistan/safwanahmadsaffi">
+    <img src="https://user-badge.committers.top/pakistan/safwanahmadsaffi.svg" alt="committers.top badge" />
+<!--[![committers.top badge]  (https://user-badge.committers.top/pakistan/safwanahmadsaffi.svg)](https://user-badge.committers.top/pakistan/safwanahmadsaffi)-->
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=safwaahmad&" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=safwanahmadsaffi&" />
 </div>
 <div align="center">
-  <a href="https://profile-summary-for-github.com/user/safwaahmad"><img alt="All Repositories" title="Detailed GitHub Statistics" src="https://custom-icon-badges.demolab.com/badge/Detailed%20GitHub%20Statistics-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://profile-summary-for-github.com/user/safwanahmadsaffi"><img alt="All Repositories" title="Detailed GitHub Statistics" src="https://custom-icon-badges.demolab.com/badge/Detailed%20GitHub%20Statistics-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </div>
     
 ---
@@ -27,7 +27,7 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student based in Paki
 - 👯 I’m looking to collaborate on **tech things.**
 - 🤝 I’m looking for help with **DSA.**
 - 👀 HuggingFace space: https://huggingface.co/Safwanahmad619
-- 👨‍💻 All of my projects are available at [https://safwanahmadsaffi.github.io/data-science-portfolio/](https://safwaahmad.github.io/data-science-portfolio/)
+- 👨‍💻 All of my projects are available at [https://safwanahmadsaffi.github.io/data-science-portfolio/](https://safwanahmadsaffi.github.io/data-science-portfolio/)
 - 📝 I regularly write articles on [https://safwera.blogspot.com/](https://safwera.blogspot.com/)
 - 💬 Ask me about **Python, DSA, Data Science, GenAI.**
 - 📫 How to reach me **safwanahmadsaffi836@gmail.com**
