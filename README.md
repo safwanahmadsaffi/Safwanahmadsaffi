@@ -15,7 +15,7 @@
 </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<a href="https://gitroll.io/profile/uAijnqpn4OLR1PUwNnUgd8wKewL42" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uAijnqpn4OLR1PUwNnUgd8wKewL42?theme=darkEmerald" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/uAijnqpn4OLR1PUwNnUgd8wKewL42" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uAijnqpn4OLR1PUwNnUgd8wKewL42?theme=dracula" alt="GitRoll Profile Badge"/></a>
 
 </div>
 
